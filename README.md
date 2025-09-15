@@ -21,7 +21,7 @@
   * [``` margin-bottom ```]  -  A sets the bottom margin of an element
   * [``` margin-left ```]  -  A sets the right margin of an element
   * [``` margin-right ```]  -  A sets the left margin of an element
-  Properties
+  * Properties
     *   auto - the browser calculates the margin
     *   length - specifies a margin in px, pt, cm, etc.
     *   % - specifies a margin in % of the width of the containing element
